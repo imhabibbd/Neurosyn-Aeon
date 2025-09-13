@@ -1,0 +1,35 @@
+# Help & Support triage
+title: "Help: {symptom or error}"
+labels:
+  - help
+discussion_category_name: "Help & Support"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe what’s wrong. Include steps, posture, and a minimal repro if possible.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: 1) ... 2) ... 3) ...
+  - type: dropdown
+    id: posture
+    attributes:
+      label: Current posture
+      options:
+        - Curtain: drawn, Enigma: disabled
+        - Curtain: lifted, Enigma: shadow
+        - Curtain: lifted, Enigma: full
+        - Unknown / not sure
+  - type: textarea
+    id: logs
+    attributes:
+      label: Evidence (audit / trace / status)
+      description: Paste redacted snippets only
+      render: text
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you already tried?
+      
