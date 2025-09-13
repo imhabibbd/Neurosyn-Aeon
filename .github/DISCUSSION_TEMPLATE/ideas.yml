@@ -1,0 +1,37 @@
+# Feature proposals / enhancements
+title: "Idea: {feature/proposal}"
+labels:
+  - idea
+discussion_category_name: "Ideas"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose an improvement. Specify the user story and acceptance criteria.
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      placeholder: One-paragraph overview
+  - type: textarea
+    id: user_story
+    attributes:
+      label: User story
+      placeholder: As a <role>, I want <capability>, so that <benefit>.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      placeholder: Bullet points of what “done” looks like
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope (check all that apply)
+      options:
+        - label: Governance / safety
+        - label: PMIL / memory
+        - label: Enigma behavior
+        - label: Tokens / cost discipline
+        - label: Observability (audit/trace)
+        - label: Docs / README
+        
