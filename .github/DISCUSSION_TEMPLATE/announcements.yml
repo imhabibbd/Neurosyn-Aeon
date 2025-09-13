@@ -1,0 +1,18 @@
+# Maintainers-only announcements
+title: "Announcement: {short title}"
+labels:
+  - announcement
+discussion_category_name: "Announcements"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Maintainers-only. Use for releases, policy updates, and security notices.
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+  - type: textarea
+    id: links
+    attributes:
+      label: Links (changelog, release notes, docs)
