@@ -282,3 +282,6 @@ Current: v3.6. Changelog is tracked in `meta.notes` inside AEON.json.
 ## License
 See [LICENSE.md](LICENSE.md) for terms.
 
+> 💬 **Questions or ideas?** Start a thread in [GitHub Discussions](../../discussions).
+> 
+
