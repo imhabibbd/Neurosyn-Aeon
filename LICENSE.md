@@ -28,4 +28,4 @@ By accessing this repository, you agree to these terms. Any unauthorized use,
 duplication, or distribution is strictly prohibited and may result in legal action.  
 
 For licensing or special permissions, contact:  
-📧 synithfire@gmail.com | 🌐 [https://github.com/NeurosynLabs](https://github.com/NeurosynLabs)
+📧 neurosynlabs@proton.me | 🌐 [https://github.com/NeurosynLabs](https://github.com/NeurosynLabs)
