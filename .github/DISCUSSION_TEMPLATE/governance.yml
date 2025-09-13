@@ -1,0 +1,35 @@
+# Reviews for safety, policy, Enigma risk, and audit/trace
+title: "Governance Review: {topic}"
+labels:
+  - governance
+  - safety
+discussion_category_name: "Governance & Safety Reviews"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for ethics/safety reviews, Enigma risk assessments, and policy changes.
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: Why is this review needed now?
+  - type: checkboxes
+    id: risk_types
+    attributes:
+      label: Risk Type(s)
+      options:
+        - label: Language weaponization / manipulation
+        - label: Misinterpretation / unintended interventions
+        - label: Persistence / recursion spillover
+        - label: Privacy / data handling
+        - label: Compliance / policy alignment
+  - type: textarea
+    id: mitigation
+    attributes:
+      label: Proposed guardrails / mitigations
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (audit/trace excerpts, redacted)
+      render: text
