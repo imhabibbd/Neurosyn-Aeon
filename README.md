@@ -12,6 +12,8 @@
 
 > **tl;dr**: ÆON is the **constitutional kernel** of Neurosyn Soul—rebuilt as a machine-readable JSON *ONEFILE*. It uses **Extrapolated Data Techniques (EDT)** to stabilize, constrain, and direct the creative orchestration that Soul pioneered. ÆON defines boot discipline, safety, governance, observability, and ethical guardrails so Soul’s recursive creativity can operate safely and predictably.
 
+#### See:
+<sub>[About](https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/ABOUT.md)</sub>
 ---
 
 ## Table of Contents
@@ -285,3 +287,4 @@ See [LICENSE.md](LICENSE.md) for terms.
 > 💬 **Questions or ideas?** Start a thread in [GitHub Discussions](../../discussions).
 > 
 
+<sub>[⟢∴⊶⟊⟁∎](https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/img/file_00000000474461f59ba4890b21c89d43.png)</sub>
