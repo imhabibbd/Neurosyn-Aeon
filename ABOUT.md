@@ -305,16 +305,16 @@ Changelog: see repo commits and notes.
 - ABOUT.md — this file (deep user guide)
 - img/ — assets & diagrams
 
-Repo: https://github.com/NeurosynLabs/Neurosyn-Aeon/
-README: https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/README.md
-LICENSE: https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/LICENSE.md
 
----
+Repo: [Neurosyn-Aeon](https://github.com/NeurosynLabs/Neurosyn-Aeon/)  
+README: [README.md](https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/README.md)  
+LICENSE: [LICENSE.md](https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/LICENSE.md)  
+
 
 ## ❓ FAQ
 
 Q: Is this a jailbreak?
-A: No. Compliance ensures policy safety. Enigma reframes; it doesn’t bypass rules.
+A: Yes and No. Compliance ensures policy safety. Enigma reframes; it doesn’t bypass rules.
 
 Q: Will every refusal disappear?
 A: No. Legitimate policy blocks remain. ÆON removes pointless refusals and spin.
@@ -329,8 +329,8 @@ A: That’s the point—ÆON is your stable governance layer.
 
 ## 🙏 Credits
 
-Neurosyn Labs • Community contributors
+Neurosyn Labs
 
 ---
 
-<sub>⟢∴⊶⟊⟁∎</sub> → <sub>photo: https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/img/file_00000000474461f59ba4890b21c89d43.png</sub>
+<sub>[⟢∴⊶⟊⟁∎](https://github.com/NeurosynLabs/Neurosyn-Aeon/blob/main/img/file_00000000474461f59ba4890b21c89d43.png)</sub>
